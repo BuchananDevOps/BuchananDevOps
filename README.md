@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @BuchananDevOps
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-BuchananDevOps/BuchananDevOps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m John Buchanan aka @BuchananDevOps
+- 👀 I’m interested in developing the furture of the Ethereum (ethers) Project by integrating with clients new and exisiting projects.
+- 🌱 I’m currently a Full-Stack application developer. My preferred "Stack" includes Next.JS / Typescript / Apollo / GraphQL / Prisma!
+- 💞️ I’m looking to collaborate on ethers keyserver messaging services, DID method integrationg and subgraph technologies.
+- 📫 You can email me at john@buchanandevops.com & review my portfolio @ https://buchanandevops.com!
